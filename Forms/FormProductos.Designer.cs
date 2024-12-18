@@ -38,20 +38,20 @@
             // 
             button1.BackColor = Color.Transparent;
             button1.ForeColor = SystemColors.ActiveCaptionText;
-            button1.Location = new Point(897, 59);
+            button1.Location = new Point(1281, 98);
+            button1.Margin = new Padding(4, 5, 4, 5);
             button1.Name = "button1";
-            button1.Size = new Size(78, 27);
+            button1.Size = new Size(111, 45);
             button1.TabIndex = 1;
-            button1.Text = "Mostrar";
+            button1.Text = "Actualizar";
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
             // flowLayoutPanel1
             // 
-            flowLayoutPanel1.Location = new Point(31, 16);
-            flowLayoutPanel1.Margin = new Padding(2);
+            flowLayoutPanel1.Location = new Point(44, 27);
             flowLayoutPanel1.Name = "flowLayoutPanel1";
-            flowLayoutPanel1.Size = new Size(760, 433);
+            flowLayoutPanel1.Size = new Size(1086, 722);
             flowLayoutPanel1.TabIndex = 2;
             // 
             // dwvProductos
@@ -59,19 +59,22 @@
             dwvProductos.AllowUserToAddRows = false;
             dwvProductos.AllowUserToDeleteRows = false;
             dwvProductos.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dwvProductos.Location = new Point(796, 150);
+            dwvProductos.Location = new Point(1137, 250);
+            dwvProductos.Margin = new Padding(4, 5, 4, 5);
             dwvProductos.Name = "dwvProductos";
-            dwvProductos.Size = new Size(320, 146);
+            dwvProductos.RowHeadersWidth = 62;
+            dwvProductos.Size = new Size(457, 243);
             dwvProductos.TabIndex = 0;
             // 
             // Productos
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1056, 450);
+            ClientSize = new Size(1509, 750);
             Controls.Add(dwvProductos);
             Controls.Add(flowLayoutPanel1);
             Controls.Add(button1);
+            Margin = new Padding(4, 5, 4, 5);
             Name = "Productos";
             Text = "Productos";
             ((System.ComponentModel.ISupportInitialize)dwvProductos).EndInit();

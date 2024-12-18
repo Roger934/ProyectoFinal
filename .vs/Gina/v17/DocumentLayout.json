@@ -1,73 +1,93 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\",
+  "WorkspaceRootPath": "D:\\C#\\ProyectoPOO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|c:\\users\\roger\\onedrive\\escritorio\\ultimi\\gina\\forms\\formordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\formordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|c:\\users\\roger\\onedrive\\escritorio\\ultimi\\gina\\forms\\formordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\formordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|c:\\users\\roger\\onedrive\\escritorio\\ultimi\\gina\\forms\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\forms\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\forms\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\forms\\formsventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\formsventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|c:\\users\\roger\\onedrive\\escritorio\\ultimi\\gina\\forms\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|d:\\c#\\proyectopoo\\forms\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\forms\\bajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\bajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|d:\\c#\\proyectopoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|c:\\users\\roger\\onedrive\\escritorio\\ultimi\\gina\\forms\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|D:\\C#\\ProyectoPOO\\forms\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|c:\\users\\roger\\onedrive\\escritorio\\ultimi\\gina\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|D:\\C#\\ProyectoPOO\\forms\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|c:\\users\\roger\\onedrive\\escritorio\\ultimi\\gina\\forms\\formproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\formproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|d:\\c#\\proyectopoo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|c:\\users\\roger\\onedrive\\escritorio\\ultimi\\gina\\forms\\bajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\bajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|d:\\c#\\proyectopoo\\forms\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\forms\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|D:\\C#\\ProyectoPOO\\forms\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|c:\\users\\roger\\onedrive\\escritorio\\ultimi\\gina\\forms\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|d:\\c#\\proyectopoo\\forms\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|D:\\C#\\ProyectoPOO\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|D:\\C#\\ProyectoPOO\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|D:\\C#\\ProyectoPOO\\forms\\formordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\formordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|d:\\c#\\proyectopoo\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|d:\\c#\\proyectopoo\\forms\\formordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\formordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|d:\\c#\\proyectopoo\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|D:\\C#\\ProyectoPOO\\forms\\bajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\bajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|d:\\c#\\proyectopoo\\forms\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|d:\\c#\\proyectopoo\\forms\\formproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\formproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|d:\\c#\\proyectopoo\\forms\\bajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\bajas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|d:\\c#\\proyectopoo\\forms\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|c:\\users\\roger\\onedrive\\escritorio\\ultimi\\gina\\forms\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|d:\\c#\\proyectopoo\\forms\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\forms\\altas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|D:\\C#\\ProyectoPOO\\forms\\altas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\altas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\forms\\formpagooxxo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|D:\\C#\\ProyectoPOO\\forms\\formpagooxxo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{33A7D077-6DB6-4CED-9FF4-A13F41B5DBF1}|Gina.csproj|solutionrelative:forms\\formpagooxxo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -78,132 +98,217 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\C#\\ProyectoPOO\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:07:31.707Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormOrdenes.cs",
-              "DocumentMoniker": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\FormOrdenes.cs",
-              "RelativeDocumentMoniker": "Forms\\FormOrdenes.cs",
-              "ToolTip": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\FormOrdenes.cs",
-              "RelativeToolTip": "Forms\\FormOrdenes.cs",
-              "ViewState": "AgIAAP8BAAAAAAAAAAAkwM8BAAAMAAAAAAAAAA==",
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Forms\\Admin.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin.cs",
+              "ToolTip": "D:\\C#\\ProyectoPOO\\Forms\\Admin.cs",
+              "RelativeToolTip": "Forms\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T02:58:36.938Z",
+              "WhenOpened": "2024-12-18T02:22:11.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormOrdenes.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\FormOrdenes.cs",
-              "RelativeDocumentMoniker": "Forms\\FormOrdenes.cs",
-              "ToolTip": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\FormOrdenes.cs [Design]",
-              "RelativeToolTip": "Forms\\FormOrdenes.cs [Design]",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\C#\\ProyectoPOO\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAwwKEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T02:58:29.502Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Admin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\Admin.cs",
-              "RelativeDocumentMoniker": "Forms\\Admin.cs",
-              "ToolTip": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\Admin.cs [Design]",
-              "RelativeToolTip": "Forms\\Admin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T02:18:15.26Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormsVentas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\FormsVentas.cs",
-              "RelativeDocumentMoniker": "Forms\\FormsVentas.cs",
-              "ToolTip": "C:\\Users\\darkr\\Desktop\\gina ff\\Gina\\Gina\\Forms\\FormsVentas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\darkr\\Desktop\\gina ff\\Gina\\Gina\\Forms\\FormsVentas.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T02:21:05.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\Admin.cs",
-              "RelativeDocumentMoniker": "Forms\\Admin.cs",
-              "ToolTip": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\Admin.cs",
-              "RelativeToolTip": "Forms\\Admin.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAIA4wHYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T02:22:11.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormProductos.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\FormProductos.cs",
-              "RelativeDocumentMoniker": "Forms\\FormProductos.cs",
-              "ToolTip": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\FormProductos.cs [Design]",
-              "RelativeToolTip": "Forms\\FormProductos.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T20:04:35.196Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-18T03:08:58.479Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FormProductos.cs",
-              "DocumentMoniker": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\FormProductos.cs",
+              "Title": "FormProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Forms\\FormProductos.cs",
               "RelativeDocumentMoniker": "Forms\\FormProductos.cs",
-              "ToolTip": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\FormProductos.cs",
+              "ToolTip": "D:\\C#\\ProyectoPOO\\Forms\\FormProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FormProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:04:35.196Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Forms\\Admin.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin.cs",
+              "ToolTip": "D:\\C#\\ProyectoPOO\\Forms\\Admin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Admin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:18:15.26Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormProductos.cs",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Forms\\FormProductos.cs",
+              "RelativeDocumentMoniker": "Forms\\FormProductos.cs",
+              "ToolTip": "D:\\C#\\ProyectoPOO\\Forms\\FormProductos.cs",
               "RelativeToolTip": "Forms\\FormProductos.cs",
-              "ViewState": "AgIAAEIBAAAAAAAAAAAQwCcBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T04:26:32.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Consultas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Forms\\Consultas.cs",
+              "RelativeDocumentMoniker": "Forms\\Consultas.cs",
+              "ToolTip": "D:\\C#\\ProyectoPOO\\Forms\\Consultas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Consultas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T01:31:18.702Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "FormAdmin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Forms\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "Forms\\FormAdmin.cs",
+              "ToolTip": "D:\\C#\\ProyectoPOO\\Forms\\FormAdmin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FormAdmin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T04:23:13.64Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "Forms\\Login.cs",
+              "ToolTip": "D:\\C#\\ProyectoPOO\\Forms\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:13:03.357Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormOrdenes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Forms\\FormOrdenes.cs",
+              "RelativeDocumentMoniker": "Forms\\FormOrdenes.cs",
+              "ToolTip": "D:\\C#\\ProyectoPOO\\Forms\\FormOrdenes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FormOrdenes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:58:29.502Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Main.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "D:\\C#\\ProyectoPOO\\Main.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Main.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:43:17.72Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "D:\\C#\\ProyectoPOO\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAlwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:44:09.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormOrdenes.cs",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Forms\\FormOrdenes.cs",
+              "RelativeDocumentMoniker": "Forms\\FormOrdenes.cs",
+              "ToolTip": "D:\\C#\\ProyectoPOO\\Forms\\FormOrdenes.cs",
+              "RelativeToolTip": "Forms\\FormOrdenes.cs",
+              "ViewState": "AgIAAFkBAAAAAAAAAAAAAM8BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:58:36.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "Forms\\Login.cs",
+              "ToolTip": "D:\\C#\\ProyectoPOO\\Forms\\Login.cs",
+              "RelativeToolTip": "Forms\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:09:07.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Bajas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\Bajas.cs",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Forms\\Bajas.cs",
               "RelativeDocumentMoniker": "Forms\\Bajas.cs",
               "ToolTip": "C:\\Users\\darkr\\Desktop\\gina cas\\Gina\\Gina\\Forms\\Bajas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\darkr\\Desktop\\gina cas\\Gina\\Gina\\Forms\\Bajas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T01:30:58.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "FormProductos.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\FormProductos.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Forms\\FormProductos.Designer.cs",
               "RelativeDocumentMoniker": "Forms\\FormProductos.Designer.cs",
-              "ToolTip": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\FormProductos.Designer.cs",
+              "ToolTip": "D:\\C#\\ProyectoPOO\\Forms\\FormProductos.Designer.cs",
               "RelativeToolTip": "Forms\\FormProductos.Designer.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwEAAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T00:26:32.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Pedidos.cs",
-              "DocumentMoniker": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\Pedidos.cs",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Forms\\Pedidos.cs",
               "RelativeDocumentMoniker": "Forms\\Pedidos.cs",
-              "ToolTip": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\Pedidos.cs",
+              "ToolTip": "D:\\C#\\ProyectoPOO\\Forms\\Pedidos.cs",
               "RelativeToolTip": "Forms\\Pedidos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,11 +316,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "Bajas.cs",
-              "DocumentMoniker": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\Bajas.cs",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Forms\\Bajas.cs",
               "RelativeDocumentMoniker": "Forms\\Bajas.cs",
-              "ToolTip": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\Bajas.cs",
+              "ToolTip": "D:\\C#\\ProyectoPOO\\Forms\\Bajas.cs",
               "RelativeToolTip": "Forms\\Bajas.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAAAxwI8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -223,34 +328,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\Login.cs",
-              "RelativeDocumentMoniker": "Forms\\Login.cs",
-              "ToolTip": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\Login.cs",
-              "RelativeToolTip": "Forms\\Login.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAiwBUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T04:09:07.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Consultas.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\Consultas.cs",
-              "RelativeDocumentMoniker": "Forms\\Consultas.cs",
-              "ToolTip": "C:\\Users\\roger\\OneDrive\\Escritorio\\Ese\\Gina\\Gina\\Forms\\Consultas.cs [Design]",
-              "RelativeToolTip": "..\\..\\Ese\\Gina\\Gina\\Forms\\Consultas.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T01:31:18.702Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Consultas.cs",
-              "DocumentMoniker": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\Consultas.cs",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Forms\\Consultas.cs",
               "RelativeDocumentMoniker": "Forms\\Consultas.cs",
-              "ToolTip": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\Consultas.cs",
+              "ToolTip": "D:\\C#\\ProyectoPOO\\Forms\\Consultas.cs",
               "RelativeToolTip": "Forms\\Consultas.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAEMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -258,11 +340,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\Producto.cs",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Forms\\Producto.cs",
               "RelativeDocumentMoniker": "Forms\\Producto.cs",
-              "ToolTip": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\Producto.cs",
+              "ToolTip": "D:\\C#\\ProyectoPOO\\Forms\\Producto.cs",
               "RelativeToolTip": "Forms\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -270,21 +352,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Altas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\Altas.cs",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Forms\\Altas.cs",
               "RelativeDocumentMoniker": "Forms\\Altas.cs",
               "ToolTip": "D:\\C#\\Gina\\Forms\\Altas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Gina\\Forms\\Altas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T15:49:02.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "FormPagoOxxo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\roger\\OneDrive\\Escritorio\\uLTIMI\\Gina\\Forms\\FormPagoOxxo.cs",
+              "DocumentMoniker": "D:\\C#\\ProyectoPOO\\Forms\\FormPagoOxxo.cs",
               "RelativeDocumentMoniker": "Forms\\FormPagoOxxo.cs",
               "ToolTip": "D:\\C#\\Gina\\Forms\\FormPagoOxxo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Gina\\Forms\\FormPagoOxxo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T06:10:46.796Z"
             }

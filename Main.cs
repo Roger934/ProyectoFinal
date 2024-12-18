@@ -28,7 +28,7 @@ namespace Gina
             formulario.Show();
         }
 
-        private void btnLogin_Click(object sender, EventArgs e)
+        private void btnLogin_Click_1(object sender, EventArgs e)
         {
             this.Hide();
             Login loginForm = new Login();

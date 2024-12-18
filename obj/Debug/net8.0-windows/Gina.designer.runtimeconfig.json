@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\roger\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\roger\\.nuget\\packages"
+      "C:\\Users\\Eliod\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Eliod\\.nuget\\packages"
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,

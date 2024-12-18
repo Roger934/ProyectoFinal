@@ -1259,3 +1259,195 @@ C:\Users\roger\OneDrive\Escritorio\uLTIMI\Gina\obj\Debug\net8.0-windows\refint\G
 C:\Users\roger\OneDrive\Escritorio\uLTIMI\Gina\obj\Debug\net8.0-windows\Gina.pdb
 C:\Users\roger\OneDrive\Escritorio\uLTIMI\Gina\obj\Debug\net8.0-windows\Gina.genruntimeconfig.cache
 C:\Users\roger\OneDrive\Escritorio\uLTIMI\Gina\obj\Debug\net8.0-windows\ref\Gina.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\Gina.exe
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\img\baseball.png
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\img\box.png
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\img\chandal.png
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\img\espinilleras.png
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\img\faker.png
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\img\logo.png
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\img\peluche.png
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\img\pesas.png
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\img\tachones.png
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\img\tennis.png
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\Gina.deps.json
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\Gina.runtimeconfig.json
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\Gina.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\Gina.pdb
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\PdfSharp.Quality.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\PdfSharp.Snippets.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\PdfSharp.System.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\PdfSharp.WPFonts.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\PdfSharp.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\QRCoder.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\darkr\Desktop\gina ff\Gina\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.csproj.AssemblyReference.cache
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.FormMenu.resources
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.Forms.Admin.resources
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.Forms.Altas.resources
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.Forms.Bajas.resources
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.Forms.btnRopa.resources
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.Forms.Cambios.resources
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.Forms.Consultas.resources
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.Forms.FormAdmin.resources
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.Forms.Grafica.resources
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.Forms.Ordenes.resources
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.Forms.FormPagoEfectivo.resources
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.Forms.FormPagoOxxo.resources
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.Forms.FormPagoTarjeta.resources
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.Forms.FormProdd.resources
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.Forms.Productos.resources
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.Forms.FormsVentas.resources
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.Forms.Login.resources
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.Main.resources
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.Properties.Resources.resources
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.csproj.GenerateResource.cache
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.AssemblyInfoInputs.cache
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.AssemblyInfo.cs
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.csproj.CoreCompileInputs.cache
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.csproj.Up2Date
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.dll
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\refint\Gina.dll
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.pdb
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\Gina.genruntimeconfig.cache
+C:\Users\darkr\Desktop\gina ff\Gina\obj\Debug\net8.0-windows\ref\Gina.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\Gina.exe
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\img\baseball.png
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\img\box.png
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\img\chandal.png
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\img\espinilleras.png
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\img\faker.png
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\img\logo.png
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\img\peluche.png
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\img\pesas.png
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\img\tachones.png
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\img\tennis.png
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\Gina.deps.json
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\Gina.runtimeconfig.json
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\Gina.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\Gina.pdb
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\itext.barcodes.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\itext.forms.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\itext.io.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\itext.kernel.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\itext.layout.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\itext.pdfa.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\itext.pdfua.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\itext.sign.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\itext.svg.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\itext.commons.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\itextsharp.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\PdfSharp.Quality.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\PdfSharp.Snippets.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\PdfSharp.System.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\PdfSharp.WPFonts.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\PdfSharp.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\QRCoder.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\System.Management.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\C#\ProyectoPOO\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.csproj.AssemblyReference.cache
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.FormMenu.resources
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.Forms.Admin.resources
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.Forms.Altas.resources
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.Forms.Bajas.resources
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.Forms.btnRopa.resources
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.Forms.Cambios.resources
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.Forms.Consultas.resources
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.Forms.FormAdmin.resources
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.Forms.Grafica.resources
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.Forms.Ordenes.resources
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.Forms.FormPagoEfectivo.resources
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.Forms.FormPagoOxxo.resources
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.Forms.FormPagoTarjeta.resources
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.Forms.FormProdd.resources
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.Forms.Productos.resources
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.Forms.FormsVentas.resources
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.Forms.Login.resources
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.Main.resources
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.Properties.Resources.resources
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.csproj.GenerateResource.cache
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.AssemblyInfoInputs.cache
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.AssemblyInfo.cs
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.csproj.CoreCompileInputs.cache
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.csproj.Up2Date
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.dll
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\refint\Gina.dll
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.pdb
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\Gina.genruntimeconfig.cache
+D:\C#\ProyectoPOO\obj\Debug\net8.0-windows\ref\Gina.dll

@@ -19,6 +19,7 @@ namespace Gina.Forms
             InitializeComponent();
             tipoUsuario = tipo;
             this.dwvProductos.CellClick += new DataGridViewCellEventHandler(this.dwvProductos_CellClick);
+            CargarProductos();
         }
 
         // Método para cargar productos y mostrar imágenes
@@ -55,6 +56,7 @@ namespace Gina.Forms
                             DataGridViewTextBoxColumn cantidadColumn = new DataGridViewTextBoxColumn();
                             cantidadColumn.HeaderText = "Cantidad";
                             cantidadColumn.Name = "Cantidad"; // Asignar un nombre a la columna
+                            ForeColor= Color.Red;
                             dwvProductos.Columns.Add(cantidadColumn);
 
 

@@ -117,5 +117,10 @@ namespace Gina.Forms
             FormsVentas ventas = new FormsVentas();
             AbrirFormularioEnPanel(ventas);
         }
+
+        private void dgvBase_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

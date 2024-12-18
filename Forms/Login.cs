@@ -63,7 +63,7 @@ namespace Gina.Forms
                             {
                                 MessageBox.Show("¡Inicio de sesión como administrador exitoso!", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
                                 LoginExitoso = true; // Marcar el login como exitoso
-                                tipoUsuario = "admin";
+                                tipoUsuario = "1";
                                 this.Hide(); // Ocultar el formulario actual
                             }
                             else
@@ -79,7 +79,7 @@ namespace Gina.Forms
                             {
                                 MessageBox.Show("¡Inicio de sesión como invitado exitoso!", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
                                 LoginExitoso = true; // Marcar el login como exitoso
-                                tipoUsuario = "invitado";
+                                tipoUsuario = "0";
                                 this.Hide(); // Ocultar el formulario actual
                             }
                             else

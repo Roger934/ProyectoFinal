@@ -1,6 +1,8 @@
 using FontAwesome.Sharp;
 using System.Runtime.InteropServices;
 using Gina.Forms;
+using static System.Runtime.InteropServices.JavaScript.JSType;
+using System.Media;
 
 namespace Gina
 {
@@ -19,6 +21,19 @@ namespace Gina
             timer1.Start();
             idRecibido = id;
             usuario = tipo;
+
+            if (usuario == "0")
+            {
+                txtUsu.Text = "Invitado";
+            }
+            else if (usuario == "1")
+            {
+                txtUsu.Text = "Admin";
+            }
+            else
+            {
+                txtUsu.Text = "Usuario " + id;
+            }
 
             //MessageBox.Show("Tipo: " + usuario); Comprobar id
 
@@ -140,12 +155,12 @@ namespace Gina
             OpenChildForm(new Grafica());
 
         }
-
         private void btnInicio_Click(object sender, EventArgs e)
         {
             currentChildForm.Close();
             Reset();
         }
+
 
         private void Reset()
         {
@@ -214,9 +229,26 @@ namespace Gina
 
         }
 
+
         private void timer1_Tick(object sender, EventArgs e)
         {
             label2.Text = DateTime.Now.ToString("dddd, dd MMMM yyyy HH:mm:ss");
         }
+
+        private void btnPlay_Click(object sender, EventArgs e)
+        {
+            SoundPlayer Sonido = new SoundPlayer();
+            Sonido.SoundLocation = @"D:\C#\ProyectoPOO\song.wav";
+            Sonido.Play();
+        }
+
+        private void btnPause_Click(object sender, EventArgs e)
+        {
+            SoundPlayer Sonido = new SoundPlayer();
+            Sonido.SoundLocation = @"D:\C#\ProyectoPOO\song.wav";
+            Sonido.Stop();
+        }
+
+        
     }
 }
